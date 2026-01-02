@@ -1,0 +1,27 @@
+login:
+  gitee_login_enabled:
+    default: false
+    client: true
+    type: bool
+    description: "Enable Gitee login"
+    area: "login"
+
+  gitee_login_client_id:
+    default: ""
+    type: string
+    description: "Gitee OAuth Client ID"
+    area: "login"
+
+  gitee_login_client_secret:
+    default: ""
+    type: string
+    description: "Gitee OAuth Client Secret"
+    secret: true
+    area: "login"
+
+  gitee_login_button_title:
+    default: "Log in with Gitee"
+    client: true
+    type: string
+    description: "Title for the Gitee login button"
+    area: "login"

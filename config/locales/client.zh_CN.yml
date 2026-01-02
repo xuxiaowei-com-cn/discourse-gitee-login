@@ -1,0 +1,8 @@
+zh_CN:
+  js:
+    login:
+      gitee:
+        name: "Gitee"
+        title: "使用 Gitee 登录"
+        sr_title: "使用 Gitee 登录"
+        message: "使用 Gitee 进行身份验证"

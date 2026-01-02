@@ -1,0 +1,9 @@
+zh_CN:
+  plugins:
+    discourse_gitee_login:
+      name: "Gitee 码云登录"
+  site_settings:
+    gitee_login_enabled: '是否启用 Gitee 登录？'
+    gitee_login_client_id: '（Gitee 登录）Gitee OAuth Client ID'
+    gitee_login_client_secret: '（Gitee 登录）Gitee OAuth Client Secret'
+    gitee_login_button_title: '（Gitee 登录）Gitee 登录按钮标题'
