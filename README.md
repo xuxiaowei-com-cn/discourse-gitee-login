@@ -24,7 +24,7 @@
         - 应用名称：您的论坛名称
         - 应用描述：您的论坛描述
         - 应用主页：您的论坛 URL
-        - 授权回调地址：`https://your-forum-url/auth/gitee/callback`（将 `your-forum-url` 替换为您的论坛域名）
+        - 授权回调地址：`https://your-forum-url/auth/gitee/callback` （将 `your-forum-url` 替换为您的论坛域名）
     - 点击 "创建应用"
 
 2. 从 Gitee 应用页面复制 `Client ID` 和 `Client Secret`。
@@ -35,6 +35,9 @@
     - 输入您从 Gitee 复制的 `Client ID` 和 `Client Secret`
     - 根据需要自定义 `gitee_login_button_title`
     - 点击 "保存更改"
+
+![img-1.png](static/img-1.png)
+![img-2.png](static/img-2.png)
 
 ## 使用
 
