@@ -45,4 +45,4 @@ class GiteeAuthenticator < ::Auth::ManagedAuthenticator
   end
 end
 
-auth_provider title_setting: "gitee_login_button_title", authenticator: GiteeAuthenticator.new
+auth_provider title_setting: "gitee_login_button_title", icon: "gitee", authenticator: GiteeAuthenticator.new
