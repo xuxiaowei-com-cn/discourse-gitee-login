@@ -46,3 +46,7 @@
 ## 文档
 
 https://gitee.com/api/v5/oauth_doc
+
+## 联系我
+
+![wechat-work.jpg](static/wechat-work.jpg)
